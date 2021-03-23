@@ -1,18 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Henrique 👋
 
-teste
 
-<!--
-**HenriqueANunes/HenriqueANunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Computer Science student
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a chess game
+- 🌱 I’m currently learning a bit of everything 🤣
+- 🥅 2021 goals: create as many projects as I can
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me
+
+<a href="https://www.linkedin.com/in/henrique-matheus-alves-nunes-01a8041b3/" target="_blank"><img align="center" alt="LinkedIn" width="30px" src="https://github.com/HenriqueANunes/HenriqueANunes/blob/main/linkedin.png"/></a>
