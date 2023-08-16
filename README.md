@@ -1,11 +1,8 @@
 ### Hi there, I'm Henrique 👋
 
 
-## I'm a Computer Science student
+## I'm a Computer Science alumni
 
-- 🔭 I’m currently working on a chess game
-- 🌱 I’m currently learning a bit of everything 🤣
-- 🥅 2021 goals: create as many projects as I can
 
 ### Connect with me
 
